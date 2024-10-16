@@ -1,11 +1,11 @@
-### This is Tabrej Khan
+### This is Dr. Tabrej Khan
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jvdboss7&label=Profile%20views&color=0e75b6&style=flat" alt="tabrejmsc" /> </p>
 <div align='center'>
 
 </div>
 
-####  data science researcher and software developer with proven experience in architecting applications with Algorithms,Data stuctures, Artificial Intelligence, Machine Learning, Deep Learning, Convolutional Neural Network, Recurrent Neural Network, Python with libraries such as Sklearn,Numpy,Pandas,Matplotlib,Tableau for Data Visualization, Keras, Tensorflow, C#, ASP.NET MVC, PHP, SQL Server, MYSQL, ORACLE, AJAX and XML. I have also done some internal projects as Data Science Researcher with using tools such as Flask Based Machine learning Model and deep learning model for medical diagnosis and prognosis.My key skills in data science projects include EDA, feature Engineering, data cleaning.
+####  data science researcher and Lecturer with proven experience in architecting applications with Algorithms,Data stuctures, Artificial Intelligence, Machine Learning, Deep Learning, Convolutional Neural Network, Recurrent Neural Network, Python with libraries such as Sklearn,Numpy,Pandas,Matplotlib,Tableau for Data Visualization, Keras, Tensorflow, C#, ASP.NET MVC, PHP, SQL Server, MYSQL, ORACLE, AJAX and XML. I have also done some internal projects as Data Science Researcher with using tools such as Flask Based Machine learning Model and deep learning model for medical diagnosis and prognosis.My key skills in data science projects include EDA, feature Engineering, data cleaning.
 
 Skills: Python / Machine Learning / Deep Learning  / NLP / Feature Engineering 
 
